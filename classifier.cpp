@@ -1,7 +1,7 @@
 #include<stdio.h>
 void train(){
   printf("train\n");
-  printf("first feature is added");
+  printf("second feature is added");
 }
 
 void predict(){
